@@ -1,9 +1,3 @@
-# Template React
+# Boilerplate CRA
 
-Ola, Este é um template react com algumas dependências úteis configuradas.
-
-Isso criará um projeto com as seguintes bibliotecas:
-
-- [axios](https://github.com/axios/axios)
-- [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
-- [sass](https://sass-lang.com/)
+Esse boilerplate configura um app React com Eslint, Prettier, EditorConfig e react-router-dom, a fim de ser utilizado no projeto final do curso de Front-end. 
